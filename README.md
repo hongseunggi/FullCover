@@ -4,7 +4,7 @@ Capstone Design Project in Dankook Univ. __(Smart Residential Environment Servic
 
 # Contect
 email - donghark03@naver.com
-Dankook Univ. software Dept.
+Dankook Univ. software Dept..
 Team : 박동학, 방승환, 홍승기, 김승준
 
 #2020-05-01
